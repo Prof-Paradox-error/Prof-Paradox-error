@@ -1,143 +1,103 @@
-````md
-<!-- ========================================= -->
-<!--            Prof. Paradox README            -->
-<!-- ========================================= -->
-
 <div align="center">
 
-# 👨‍🏫 Prof. Paradox
+# 🧠 Professor Paradox
 
-### *"Knowledge is Power. Logic is a Weapon."*
+### *"Question Everything. Build Anything."*
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1200&color=00F7FF&center=true&vCenter=true&width=700&lines=SA-MP+Developer;React+Developer;Python+Engineer;PHP+Backend+Developer;C+Programmer;Problem+Solver;Always+Learning..." />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Professor+of+Code;SA-MP+Architect;React+Engineer;Python+Automation+Expert;PHP+Backend+Developer;C+Programmer;Linux+Power+User;Artificial+Intelligence+Explorer" />
 
----
-
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blueviolet&style=for-the-badge)
-![GitHub followers](https://img.shields.io/github/followers/YOUR_USERNAME?style=for-the-badge)
-![GitHub Stars](https://img.shields.io/github/stars/YOUR_USERNAME?style=for-the-badge)
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=PROF.%20PARADOX&fontAlign=50&fontAlignY=40&fontSize=55&color=0:0f2027,50:203a43,100:2c5364&fontColor=ffffff"/>
 
 </div>
 
 ---
 
-# 👨‍🎓 About Me
+# 🧬 Identity
 
-```txt
-Name      : Prof. Paradox
-Role      : Software Engineer
-Focus     : SA-MP Development
-Experience: Advanced
-Mission   : Build. Learn. Innovate.
-```
+yaml
+Name: Professor Paradox
 
-> I don't just write code...
-> I design systems, solve problems, and create experiences.
+Occupation:
+  - Software Engineer
+  - SA-MP Developer
+  - Full Stack Developer
 
----
-
-# 🧠 Skills
-
-<table>
-<tr>
-<td>
-
-### Frontend
-
-- ⚛ React
-- 💛 JavaScript
-- 🌐 HTML5
-- 🎨 CSS3
-
-</td>
-
-<td>
-
-### Backend
-
-- 🐍 Python
-- 🐘 PHP
-- ⚙ C
-- 🔥 REST API
-
-</td>
-</tr>
-</table>
-
----
-
-# 🎮 SA-MP Expertise
-
-✔ Pawn Scripting
-
-✔ GameMode Development
-
-✔ Filterscripts
-
-✔ MySQL Integration
-
-✔ Streamer Plugin
-
-✔ YSI Framework
-
-✔ Discord Integration
-
-✔ Voice Plugin Development
-
-✔ Linux Server Deployment
-
-✔ Custom Launcher Development
-
-✔ Web Panel Integration
-
-✔ Anti Cheat Systems
-
-✔ Performance Optimization
-
----
-
-# 🚀 Currently Working On
-
-```yaml
-Project:
-    Name: OverCity
+Knowledge:
+  - React
+  - JavaScript
+  - Python
+  - PHP
+  - C
+  - Linux
+  - AI
 
 Status:
-    ████████████░░░░ 80%
+  Always Learning...
 
-Learning:
-    - AI
-    - Machine Learning
-    - React
-    - Linux
-    - Reverse Engineering
-```
 
 ---
 
-# ⚡ Tech Stack
+# 🧠 Philosophy
+
+> Reality is just another hypothesis.
+
+> Every bug teaches something.
+
+> Simplicity is the highest form of intelligence.
+
+---
+
+# ⚙️ Core Technologies
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=react,js,python,php,c,html,css,nodejs,mysql,git,github,vscode,linux"/>
+<img src="https://skillicons.dev/icons?i=react,js,python,php,c,nodejs,mysql,linux,git,github,vscode,html,css"/>
 
 </p>
 
 ---
 
-# 📊 GitHub Stats
+# 🎮 SA-MP Laboratory
+
+text
+██████████████████████████████
+
+✓ Pawn Development
+
+✓ Gamemode Architecture
+
+✓ MySQL Systems
+
+✓ Voice Plugin
+
+✓ Discord Bots
+
+✓ Linux Hosting
+
+✓ API Development
+
+✓ AI Integration
+
+✓ Security Systems
+
+✓ Performance Optimization
+
+██████████████████████████████
+
+
+---
+
+# 📊 GitHub Analytics
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight"/>
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight"/>
 
 </p>
 
 ---
-
-# 📈 Languages
 
 <p align="center">
 
@@ -147,53 +107,57 @@ Learning:
 
 ---
 
-# 🏆 Achievements
+# 🏆 Skill Level
 
-🏅 Advanced SA-MP Developer
-
-🏅 Full Stack Developer
-
-🏅 React Specialist
-
-🏅 Python Automation
-
-🏅 PHP Backend Engineer
-
-🏅 Linux Enthusiast
-
-🏅 Problem Solver
+| Technology | Level |
+|------------|-------|
+| React | ██████████ 100% |
+| JavaScript | ██████████ 100% |
+| Python | ██████████ 100% |
+| PHP | █████████░ 95% |
+| C | █████████░ 95% |
+| Linux | ██████████ 100% |
+| SA-MP | ███████████ 9999% 🚀 |
 
 ---
 
-# 💻 Philosophy
+# 🚀 Current Mission
 
-> "Reality is just another hypothesis."
+bash
+> Designing next-generation SA-MP systems
+
+> Exploring Artificial Intelligence
+
+> Building Automation Tools
+
+> Learning Every Day...
+
 
 ---
 
-# 🤝 Connect
+# 🐍 Contribution Graph
 
 <p align="center">
 
-<a href="https://github.com/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="https://discord.com/users/YOUR_ID">
-<img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord"/>
-</a>
+<img src="https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake-dark.svg"/>
 
 </p>
 
 ---
 
+# ☕ Random Quote
+
+> "Knowledge without curiosity is useless."
+
+---
+
 <div align="center">
 
-## 👨‍🏫 Prof. Paradox
+## Professor Paradox
 
-*"Think Different. Build Better. Never Stop Learning."*
+### "Think Different. Code Fearlessly."
 
-⭐ Thanks for visiting my profile ⭐
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=blueviolet"/>
 
 </div>
-````
+
