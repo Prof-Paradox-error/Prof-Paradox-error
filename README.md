@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🧠 Professor Paradox
+# ⌬ Professor Paradox
 
 ### *"Question Everything. Build Anything."*
 
@@ -101,7 +101,7 @@ text
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prof-Paradox-error&layout=compact&theme=tokyonight"/>
 
 </p>
 
@@ -139,7 +139,7 @@ bash
 
 <p align="center">
 
-<img src="https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake-dark.svg"/>
+<img src="https://github.com/Prof-Paradox-error/Prof-Paradox-error/blob/output/github-contribution-grid-snake-dark.svg"/>
 
 </p>
 
@@ -157,7 +157,7 @@ bash
 
 ### "Think Different. Code Fearlessly."
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=blueviolet"/>
+<img src="https://komarev.com/ghpvc/?username=Prof-Paradox-error&style=for-the-badge&color=blueviolet"/>
 
 </div>
 
