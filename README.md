@@ -138,7 +138,7 @@ bash
 # 🐍 Contribution Graph
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Prof-Paradox-error/Prof-Paradox-error/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
 </p>
 
 ---
